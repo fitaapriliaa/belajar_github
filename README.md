@@ -1,6 +1,6 @@
 # belajar_github
 belajar github dan markdown 
-# H1fita apriaulia
+#H1 fita apriaulia
 **lagi belajar**
 1. GITHUB
 2. WORDPRESS
@@ -9,4 +9,4 @@ belajar github dan markdown
 - css
 - js
 [link](https://www.example.com)
-![gambar foto](image.jpg)
+![gambar foto](https://images.app.goo.gl/VDfZ41sjTWeysxEL6)
