@@ -11,4 +11,4 @@ belajar github dan markdown
   
 [link](https://www.example.com)
 
-![gambarfoto](https://asset-a.grid.id/crop/0x0:0x0/x/photo/2021/06/24/laut-pixabayjpg-20210624075527.jpg)
+![gambarfoto]([https://asset-a.grid.id/crop/0x0:0x0/x/photo/2021/06/24/laut-pixabayjpg-20210624075527.jpg](https://cdnwpedutorenews.gramedia.net/wp-content/uploads/2022/03/18175903/laut-scaled.jpg)https://cdnwpedutorenews.gramedia.net/wp-content/uploads/2022/03/18175903/laut-scaled.jpg)
