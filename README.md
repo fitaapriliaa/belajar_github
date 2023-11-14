@@ -11,4 +11,4 @@ belajar github dan markdown
   
 [link](https://www.example.com)
 
-![gambar foto](https://images.app.goo.gl/VDfZ41sjTWeysxEL6)
+![gambar foto](https://images.app.goo.gl/7RBRd5enfFoGKFzQ9) 
