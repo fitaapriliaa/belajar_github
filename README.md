@@ -12,3 +12,5 @@ belajar github dan markdown
 [link](https://www.example.com)
 
 ![test](https://asset-2.tstatic.net/aceh/foto/bank/images/terbongkar-rahasia-michael-jackson-miliki-dua-pacar-rahasia-hingga-alami-depresi.jpg)
+
+`sudo su`
