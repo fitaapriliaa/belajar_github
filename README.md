@@ -1,4 +1,7 @@
 # belajar_github
 belajar github dan markdown 
-#1 fita apriaulia
+# H1 fita apriaulia
 **lagi belajar**
+1. GITHUB
+2. WORDPRESS
+3. WIX
