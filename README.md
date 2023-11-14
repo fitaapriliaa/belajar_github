@@ -8,5 +8,7 @@ belajar github dan markdown
 - html
 - css
 - js
+  
 [link](https://www.example.com)
+
 ![gambar foto](https://images.app.goo.gl/VDfZ41sjTWeysxEL6)
